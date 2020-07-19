@@ -2,7 +2,7 @@
 " My vimrc file
 " for neovim with vim-plug
 " configure neovim init.vim to read this file
-" IMPORTANT: read line 18
+" IMPORTANT: read line 19
 
 
 
