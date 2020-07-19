@@ -1,0 +1,1 @@
+/Users/parsa/.vim/vimrc
